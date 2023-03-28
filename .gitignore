@@ -64,6 +64,7 @@ db.sqlite3-journal
 # Flask stuff:
 instance/
 .webassets-cache
+temp_auto_push.bat
 
 # Scrapy stuff:
 .scrapy
@@ -127,3 +128,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+bin/
+pyvenv.cfg
+.gitignore
